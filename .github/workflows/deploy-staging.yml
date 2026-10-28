@@ -6,8 +6,8 @@ on:
 
 env:
   IMAGE_REGISTRY_URL: ghcr.io
-  DOCKER_IMAGE_NAME: BOUDIN-dev1-azure-ttt
-  AZURE_WEBAPP_NAME: BOUDIN-dev1-ttt-app
+  DOCKER_IMAGE_NAME: Bismuth-dev1-azure-ttt
+  AZURE_WEBAPP_NAME: Bismuth-dev1-ttt-app
 
 jobs:
   build:
